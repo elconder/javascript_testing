@@ -9,11 +9,11 @@ Run `grunt` for building and `grunt serve` for preview.
 
 Run `npm install && bower install` for installing modules and dependences.
 
-# Unit Testing
+## Unit Testing
 
 Running `karma start karma.conf.js` will run the unit tests with karma.
 
-# End To End (e2e)
+## End To End (e2e)
 
 Running `protractor protractor.conf.js` will run End To End tests with Protractor.
 
