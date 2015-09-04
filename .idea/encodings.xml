@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/scripts/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/testfourcontroller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/testonecontroller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/testthreecontroller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/testtwocontroller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/e2e/spec.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/karma.conf.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/protractor.conf.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/spec/controllers/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/spec/controllers/testfourcontroller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/spec/controllers/testonecontroller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/spec/controllers/testthreecontroller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/spec/controllers/testtwocontroller.js" charset="UTF-8" />
+  </component>
+</project>
