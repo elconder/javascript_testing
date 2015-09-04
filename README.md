@@ -1,4 +1,4 @@
-# yeoman
+# AngularJS Pruebas unitarias y EndToEnd con Jasmine y Protractor
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.0.
@@ -7,6 +7,13 @@ version 0.12.0.
 
 Run `grunt` for building and `grunt serve` for preview.
 
-## Testing
+Run `npm install && bower install` for installing modules and dependences.
 
-Running `grunt test` will run the unit tests with karma.
+# Unit Testing
+
+Running `karma start karma.conf.js` will run the unit tests with karma.
+
+# End To End (e2e)
+
+Running `protractor protractor.conf.js` will run End To End tests with Protractor.
+
